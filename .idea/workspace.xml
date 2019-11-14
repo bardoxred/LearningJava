@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d1cd2e-ac23-4de8-9682-d3b498445da0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/PersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Contructor_Test/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Contructor_Test/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Static_Test/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Static_Test/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Test/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Test/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Inheritance/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Inheritance/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Inheritance/ManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/META-INF/EmployeeClass.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contructor_Test/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contructor_Test/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee_Static_Test/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee_Static_Test/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee_Test/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee_Test/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
