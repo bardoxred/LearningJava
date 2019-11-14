@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94d1cd2e-ac23-4de8-9682-d3b498445da0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/AbstractClasses/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Contructor_Test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Contructor_Test/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Static_Test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Static_Test/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Employee_Test/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Inheritance/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Inheritance/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/Inheritance/ManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EmployeeClass/META-INF/EmployeeClass.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor_Test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor_Test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_Static_Test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_Static_Test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_Test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_Test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ManagerTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TF0L5QnGcwdXucWihIddx2rnFj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PersonTest">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee_Static_Test.App" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Employee_Static_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contructor_Test.App" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Contructor_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee_Test.App" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.ManagerTest" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClasses.PersonTest" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaLearning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JavaLearning" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.ManagerTest" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d1cd2e-ac23-4de8-9682-d3b498445da0" name="Default Changelist" comment="" />
+      <created>1573040476540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573040476540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
